@@ -1,4 +1,5 @@
 # Project Name: Visionary Insights: AWS Rekognition in Action
+https://qtm350project.s3.amazonaws.com/blog.html
 #### Group members: Winci Liang, Angelina Ying, Kristen Li, Angela Liu, Louis Lu
 
 
