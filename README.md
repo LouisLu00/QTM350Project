@@ -37,7 +37,7 @@ Navigate through the sections to understand the functionalities of the Rekogniti
 
 
 ## Architecture Diagram
-![Diagram](/visualizations/diagram.png)
+![Diagram](/visualizations/diagram.PNG)
   
 
 In our project, which utilizes AWS technology, we began by uploading a collection of facial images to an S3 bucket. Leveraging Python in SageMaker's Jupyter Notebooks, we processed these images through the Amazon Rekognition API for facial analysis. The results, encompassing both accuracy metrics and images with identified faces, were obtained and analyzed directly within the notebooks. We documented each step and the outcomes on GitHub, offering a comprehensive and reproducible framework for evaluating facial recognition efficacy. This includes examining how specific factors, like facial tattoos, influence emotion detection algorithms.
