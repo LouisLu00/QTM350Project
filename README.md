@@ -60,7 +60,8 @@ This workflow demonstrates a cloud-based facial recognition system, from data st
 
 
 
-
+## Result
+![Diagram](/visualizations/result.PNG)
 
 
 ## Contact
